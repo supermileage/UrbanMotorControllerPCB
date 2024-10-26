@@ -524,290 +524,6 @@
 				)
 			)
 		)
-		(symbol "Connector_Generic:Conn_01x07"
-			(pin_names
-				(offset 1.016) hide)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "J"
-				(at 0 10.16 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "Conn_01x07"
-				(at 0 -10.16 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Generic connector, single row, 01x07, script generated (kicad-library-utils/schlib/autogen/connector/)"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "connector"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "Connector*:*_1x??_*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "Conn_01x07_1_1"
-				(rectangle
-					(start -1.27 -7.493)
-					(end 0 -7.747)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 -4.953)
-					(end 0 -5.207)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 -2.413)
-					(end 0 -2.667)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 0.127)
-					(end 0 -0.127)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 2.667)
-					(end 0 2.413)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 5.207)
-					(end 0 4.953)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 7.747)
-					(end 0 7.493)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 8.89)
-					(end 1.27 -8.89)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(pin passive line
-					(at -5.08 7.62 0)
-					(length 3.81)
-					(name "Pin_1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 5.08 0)
-					(length 3.81)
-					(name "Pin_2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 2.54 0)
-					(length 3.81)
-					(name "Pin_3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 0 0)
-					(length 3.81)
-					(name "Pin_4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -2.54 0)
-					(length 3.81)
-					(name "Pin_5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -5.08 0)
-					(length 3.81)
-					(name "Pin_6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -7.62 0)
-					(length 3.81)
-					(name "Pin_7"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "7"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
 		(symbol "Device:C"
 			(pin_numbers hide)
 			(pin_names
@@ -4334,6 +4050,12 @@
 		(uuid "9bbf517d-f8fc-4ec6-abb5-15d53b1eca4b")
 	)
 	(junction
+		(at 194.31 132.08)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9f309780-c4d5-4d04-a28a-ac4cbcd7f32a")
+	)
+	(junction
 		(at 231.14 265.43)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4400,12 +4122,6 @@
 		(uuid "e3a4abba-0f7d-4590-97c6-b691e6a7266e")
 	)
 	(junction
-		(at 194.31 132.08)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ee9fe726-490d-43da-8e73-9163e8c8f7ba")
-	)
-	(junction
 		(at 256.54 147.32)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4422,6 +4138,42 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fc770760-cea6-474b-b3d2-dcde709ee929")
+	)
+	(no_connect
+		(at 62.23 170.18)
+		(uuid "24bdf0eb-3834-4fe0-be91-35f2f1384199")
+	)
+	(no_connect
+		(at 31.75 160.02)
+		(uuid "3de33b46-8deb-4afb-b724-5e1d3ed99f86")
+	)
+	(no_connect
+		(at 62.23 165.1)
+		(uuid "5cdcb540-6599-4b4c-95af-571807701a32")
+	)
+	(no_connect
+		(at 31.75 165.1)
+		(uuid "6a05d409-9fe8-425a-9cb7-96a5790c9bd6")
+	)
+	(no_connect
+		(at 62.23 160.02)
+		(uuid "7ac417af-36b1-453c-92c1-35a25fc053fd")
+	)
+	(no_connect
+		(at 62.23 167.64)
+		(uuid "836080f2-e114-49cc-b80e-4b9b35b20e4c")
+	)
+	(no_connect
+		(at 31.75 162.56)
+		(uuid "998cedf3-7acf-4f43-ba39-1c3a58f090a0")
+	)
+	(no_connect
+		(at 62.23 162.56)
+		(uuid "9bdd16cb-5f79-4ca9-a53d-5f94b5598750")
+	)
+	(no_connect
+		(at 62.23 157.48)
+		(uuid "e9c0947c-e86b-47dd-addc-e3bb4eefbc0f")
 	)
 	(wire
 		(pts
@@ -5255,6 +5007,16 @@
 	)
 	(wire
 		(pts
+			(xy 194.31 132.08) (xy 243.84 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6f3a23f4-f314-480b-bd54-e49456b1a93b")
+	)
+	(wire
+		(pts
 			(xy 55.88 127) (xy 55.88 101.6)
 		)
 		(stroke
@@ -5915,16 +5677,6 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 154.94) (xy 67.31 154.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bc2c1e8a-8d9f-43ef-aa49-d75c87b331e1")
-	)
-	(wire
-		(pts
 			(xy 340.36 100.33) (xy 351.79 100.33)
 		)
 		(stroke
@@ -6095,7 +5847,7 @@
 	)
 	(wire
 		(pts
-			(xy 194.31 132.08) (xy 243.84 132.08)
+			(xy 193.04 132.08) (xy 194.31 132.08)
 		)
 		(stroke
 			(width 0)
@@ -6405,16 +6157,6 @@
 	)
 	(wire
 		(pts
-			(xy 193.04 132.08) (xy 194.31 132.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f6925c36-c024-4e19-8473-d09c4aef4842")
-	)
-	(wire
-		(pts
 			(xy 298.45 142.24) (xy 307.34 142.24)
 		)
 		(stroke
@@ -6668,7 +6410,7 @@
 		(uuid "6750d705-3522-4cb7-83cf-e31c1eb0100f")
 	)
 	(label "THROTTLE"
-		(at 194.31 132.08 0)
+		(at 193.04 132.08 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6679,7 +6421,7 @@
 		(uuid "6d69218d-5629-4716-92ab-ff9d3a0b81ef")
 	)
 	(label "CAN HIGH"
-		(at 114.3 114.3 0)
+		(at 114.3 113.03 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8442,98 +8184,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector_Generic:Conn_01x07")
-		(at 90.17 143.51 0)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "4a1582dd-cba5-41f4-bfd9-a8208d273ca1")
-		(property "Reference" "J4"
-			(at 92.71 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Conn_01x07"
-			(at 92.71 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" ""
-			(at 90.17 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 90.17 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 90.17 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "a30bb69f-49d2-44da-8691-3cd8e46353a7")
-		)
-		(pin "2"
-			(uuid "9188a27e-43c3-4144-a465-df58da570838")
-		)
-		(pin "3"
-			(uuid "2a651e91-fb50-4380-95cf-9d970fcb724b")
-		)
-		(pin "4"
-			(uuid "14bcfb68-ec7b-4355-ad48-f8b510ad85f0")
-		)
-		(pin "5"
-			(uuid "7b1165fa-6d89-4aa7-ae78-f97b0d1f655e")
-		)
-		(pin "6"
-			(uuid "0553ec15-2698-4921-82d5-743a1a19b187")
-		)
-		(pin "7"
-			(uuid "6775f5b9-a844-4eae-8265-f38a9762ceb8")
-		)
-		(instances
-			(project "Urban MC CAN Transceiver + RPM Detector"
-				(path "/2356475a-fbfe-4490-9697-ff89c98b12ae"
-					(reference "J4")
-					(unit 1)
-				)
-			)
-			(project "Urban MC"
-				(path "/9c188f5e-4c43-43bc-b719-7c7a34d1ae77"
-					(reference "J4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+5V")
 		(at 184.15 124.46 0)
 		(unit 1)
@@ -9050,7 +8700,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 336.55 97.028 90)
 			(effects
 				(font
@@ -9059,7 +8709,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.ca/en/products/detail/panasonic-electronic-components/ERJ-3GEYJ2R4V/282120"
 			(at 336.55 95.25 0)
 			(effects
 				(font
@@ -9272,7 +8922,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 347.98 80.518 90)
 			(effects
 				(font
@@ -9281,7 +8931,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://api.pim.na.industrial.panasonic.com/file_stream/main/fileversion/1242"
 			(at 347.98 78.74 0)
 			(effects
 				(font
@@ -9964,7 +9614,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 245.618 140.97 90)
 			(effects
 				(font
@@ -9973,7 +9623,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.ca/en/products/detail/yageo/RC0402JR-0710KL/726418"
 			(at 243.84 140.97 0)
 			(effects
 				(font
@@ -10169,7 +9819,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 347.98 130.048 90)
 			(effects
 				(font
@@ -10178,7 +9828,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://api.pim.na.industrial.panasonic.com/file_stream/main/fileversion/1242"
 			(at 347.98 128.27 0)
 			(effects
 				(font
@@ -10458,7 +10108,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 347.98 179.578 90)
 			(effects
 				(font
@@ -10467,7 +10117,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://api.pim.na.industrial.panasonic.com/file_stream/main/fileversion/1242"
 			(at 347.98 177.8 0)
 			(effects
 				(font
@@ -10717,7 +10367,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 102.108 100.33 90)
 			(effects
 				(font
@@ -10726,7 +10376,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/AOA0000C307.pdf"
 			(at 100.33 100.33 0)
 			(effects
 				(font
@@ -10934,7 +10584,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 337.82 201.168 90)
 			(effects
 				(font
@@ -10943,7 +10593,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://api.pim.na.industrial.panasonic.com/file_stream/main/fileversion/1242"
 			(at 337.82 199.39 0)
 			(effects
 				(font
@@ -11001,7 +10651,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 336.55 102.108 90)
 			(effects
 				(font
@@ -11010,7 +10660,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://api.pim.na.industrial.panasonic.com/file_stream/main/fileversion/1242"
 			(at 336.55 100.33 0)
 			(effects
 				(font
@@ -11134,7 +10784,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 336.55 146.558 90)
 			(effects
 				(font
@@ -11143,7 +10793,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.ca/en/products/detail/panasonic-electronic-components/ERJ-3GEYJ2R4V/282120"
 			(at 336.55 144.78 0)
 			(effects
 				(font
@@ -11287,7 +10937,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 337.82 196.088 90)
 			(effects
 				(font
@@ -11296,7 +10946,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.ca/en/products/detail/panasonic-electronic-components/ERJ-3GEYJ2R4V/282120"
 			(at 337.82 194.31 0)
 			(effects
 				(font
@@ -11795,7 +11445,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 336.55 151.638 90)
 			(effects
 				(font
@@ -11804,7 +11454,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://api.pim.na.industrial.panasonic.com/file_stream/main/fileversion/1242"
 			(at 336.55 149.86 0)
 			(effects
 				(font
