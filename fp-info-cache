@@ -1,4 +1,4 @@
-23839634230462390
+23846561491803251
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -96746,3 +96746,31 @@ CONV_LCW78_12-1.0
 0
 3
 3
+urban_mc_custom_footprints
+CON_436500200_MOL
+
+436500200 
+0
+2
+2
+urban_mc_custom_footprints
+CON_436500300_MOL
+
+436500300 
+0
+3
+3
+urban_mc_custom_footprints
+PG-TO247-3-901_INF
+
+IRF150P220XKMA1 
+0
+3
+3
+urban_mc_custom_footprints
+WP-SHFU_7461100
+<b>WP-SHFU External thread, full plain<br></b>Drill hole specification for chemical surfaces<br>Thread M10 , 36pins<br>Max Height = 24mm
+
+0
+36
+36

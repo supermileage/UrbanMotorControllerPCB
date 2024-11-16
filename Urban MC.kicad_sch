@@ -918,6 +918,140 @@
 				)
 			)
 		)
+		(symbol "Connector:Screw_Terminal_01x01"
+			(pin_names
+				(offset 1.016) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at 0 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Screw_Terminal_01x01"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "screw terminal"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "TerminalBlock*:*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Screw_Terminal_01x01_1_1"
+				(rectangle
+					(start -1.27 1.27)
+					(end 1.27 -1.27)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.5334 0.3302) (xy 0.3302 -0.508)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.3556 0.508) (xy 0.508 -0.3302)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 0)
+					(radius 0.635)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 3.81)
+					(name "Pin_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "Connector:Screw_Terminal_01x02"
 			(pin_names
 				(offset 1.016) hide)
@@ -1096,246 +1230,6 @@
 						)
 					)
 					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
-		(symbol "Connector:Screw_Terminal_01x03"
-			(pin_names
-				(offset 1.016) hide)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "J"
-				(at 0 5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "Screw_Terminal_01x03"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "screw terminal"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "TerminalBlock*:*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "Screw_Terminal_01x03_1_1"
-				(rectangle
-					(start -1.27 3.81)
-					(end 1.27 -3.81)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(circle
-					(center 0 -2.54)
-					(radius 0.635)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -0.5334 -2.2098) (xy 0.3302 -3.048)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -0.5334 0.3302) (xy 0.3302 -0.508)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -0.5334 2.8702) (xy 0.3302 2.032)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -0.3556 -2.032) (xy 0.508 -2.8702)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -0.3556 0.508) (xy 0.508 -0.3302)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -0.3556 3.048) (xy 0.508 2.2098)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 0 0)
-					(radius 0.635)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 0 2.54)
-					(radius 0.635)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -5.08 2.54 0)
-					(length 3.81)
-					(name "Pin_1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 0 0)
-					(length 3.81)
-					(name "Pin_2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -2.54 0)
-					(length 3.81)
-					(name "Pin_3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -8254,6 +8148,12 @@
 		(uuid "73caa33c-853f-46bd-8167-8fa75457729c")
 	)
 	(junction
+		(at 210.82 250.19)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7ffbb4a4-4494-439d-9885-1dfe6a63d5de")
+	)
+	(junction
 		(at 228.6 147.32)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -8965,6 +8865,16 @@
 	)
 	(wire
 		(pts
+			(xy 210.82 250.19) (xy 215.9 250.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "37c56042-a88e-405b-8c72-cce024e9ea5c")
+	)
+	(wire
+		(pts
 			(xy 60.96 111.76) (xy 60.96 116.84)
 		)
 		(stroke
@@ -9145,7 +9055,7 @@
 	)
 	(wire
 		(pts
-			(xy 205.74 250.19) (xy 215.9 250.19)
+			(xy 205.74 250.19) (xy 210.82 250.19)
 		)
 		(stroke
 			(width 0)
@@ -10989,7 +10899,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
 			(at 309.88 77.47 0)
 			(effects
 				(font
@@ -11250,6 +11160,72 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:Screw_Terminal_01x01")
+		(at 398.78 135.89 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "116e4445-8085-4d49-a613-9181da797f29")
+		(property "Reference" "J6"
+			(at 401.32 134.6199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Screw_Terminal_01x01"
+			(at 405.13 134.874 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "urban_mc_custom_footprints:WP-SHFU_7461100"
+			(at 398.78 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/7461100.pdf"
+			(at 398.78 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 398.78 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ca0be543-9e13-4a83-99b6-4b750f22ec7c")
+		)
+		(instances
+			(project ""
+				(path "/9c188f5e-4c43-43bc-b719-7c7a34d1ae77"
+					(reference "J6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector_Generic:Conn_01x02")
 		(at 111.76 96.52 0)
 		(unit 1)
@@ -11278,7 +11254,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "urban_mc_custom_footprints:CON_436500200_MOL"
 			(at 111.76 96.52 0)
 			(effects
 				(font
@@ -11287,7 +11263,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.molex.com/content/dam/molex/molex-dot-com/products/automated/en-us/salesdrawingpdf/436/43650/436500200_sd.pdf?inline"
 			(at 111.76 96.52 0)
 			(effects
 				(font
@@ -11688,7 +11664,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PG-TO247-3-901_INF"
+		(property "Footprint" "urban_mc_custom_footprints:PG-TO247-3-901_INF"
 			(at 343.662 116.332 0)
 			(effects
 				(font
@@ -11698,7 +11674,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "IRF150P220XKMA1"
+		(property "Datasheet" "https://www.infineon.com/dgdl/Infineon-IRF150P220-DataSheet-v01_01-EN.pdf?fileId=5546d46266a498f50166aca241ac65c9"
 			(at 343.154 118.872 0)
 			(effects
 				(font
@@ -11745,8 +11721,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "24c974ce-c5ae-4623-980e-7ef4c0195189")
-		(property "Reference" "J5"
-			(at 214.63 133.35 0)
+		(property "Reference" "HallPowerInput1"
+			(at 214.63 137.414 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11761,7 +11737,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "urban_mc_custom_footprints:CON_436500200_MOL"
 			(at 214.63 139.7 0)
 			(effects
 				(font
@@ -11770,7 +11746,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.molex.com/content/dam/molex/molex-dot-com/products/automated/en-us/salesdrawingpdf/436/43650/436500200_sd.pdf?inline"
 			(at 214.63 139.7 0)
 			(effects
 				(font
@@ -11797,7 +11773,7 @@
 		(instances
 			(project ""
 				(path "/9c188f5e-4c43-43bc-b719-7c7a34d1ae77"
-					(reference "J5")
+					(reference "HallPowerInput1")
 					(unit 1)
 				)
 			)
@@ -12152,6 +12128,72 @@
 			(project "Urban MC"
 				(path "/9c188f5e-4c43-43bc-b719-7c7a34d1ae77"
 					(reference "C3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Screw_Terminal_01x01")
+		(at 210.82 245.11 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "39baddaa-f59b-4aed-8b22-0ea72660c4de")
+		(property "Reference" "J9"
+			(at 213.36 243.8399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Screw_Terminal_01x01"
+			(at 208.788 240.284 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "urban_mc_custom_footprints:WP-SHFU_7461100"
+			(at 210.82 245.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/7461100.pdf"
+			(at 210.82 245.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 210.82 245.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3fce8dce-04a4-4559-a78a-4cb6ee79825a")
+		)
+		(instances
+			(project ""
+				(path "/9c188f5e-4c43-43bc-b719-7c7a34d1ae77"
+					(reference "J9")
 					(unit 1)
 				)
 			)
@@ -12745,6 +12787,72 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:Screw_Terminal_01x01")
+		(at 398.78 138.43 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5e3b64da-f8ce-4897-8828-8aff405030f9")
+		(property "Reference" "J7"
+			(at 401.32 137.1599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Screw_Terminal_01x01"
+			(at 404.876 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "urban_mc_custom_footprints:WP-SHFU_7461100"
+			(at 398.78 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/7461100.pdf"
+			(at 398.78 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 398.78 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "523c02f4-a6c0-4cf4-8f81-84031d7805b4")
+		)
+		(instances
+			(project ""
+				(path "/9c188f5e-4c43-43bc-b719-7c7a34d1ae77"
+					(reference "J7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_name "+12V_1")
 		(lib_id "power:+12V")
 		(at 256.54 250.19 270)
@@ -12841,7 +12949,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "urban_mc_custom_footprints:CON_436500200_MOL"
 			(at 111.76 107.95 0)
 			(effects
 				(font
@@ -12850,7 +12958,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.molex.com/content/dam/molex/molex-dot-com/products/automated/en-us/salesdrawingpdf/436/43650/436500200_sd.pdf?inline"
 			(at 111.76 107.95 0)
 			(effects
 				(font
@@ -12914,7 +13022,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PG-TO247-3-901_INF"
+		(property "Footprint" "urban_mc_custom_footprints:PG-TO247-3-901_INF"
 			(at 352.298 185.674 0)
 			(effects
 				(font
@@ -12924,7 +13032,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "IRF150P220XKMA1"
+		(property "Datasheet" "https://www.infineon.com/dgdl/Infineon-IRF150P220-DataSheet-v01_01-EN.pdf?fileId=5546d46266a498f50166aca241ac65c9"
 			(at 352.044 182.88 0)
 			(effects
 				(font
@@ -13121,7 +13229,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PG-TO247-3-901_INF"
+		(property "Footprint" "urban_mc_custom_footprints:PG-TO247-3-901_INF"
 			(at 346.456 90.424 0)
 			(effects
 				(font
@@ -13131,7 +13239,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "IRF150P220XKMA1"
+		(property "Datasheet" "https://www.infineon.com/dgdl/Infineon-IRF150P220-DataSheet-v01_01-EN.pdf?fileId=5546d46266a498f50166aca241ac65c9"
 			(at 345.948 88.138 0)
 			(effects
 				(font
@@ -13260,7 +13368,7 @@
 				)
 			)
 		)
-		(property "Footprint" "urban_mc_custom_footprints:CONV_LCW78_12-0.5"
+		(property "Footprint" "urban_mc_custom_footprints:CONV_LCW78_12-1.0"
 			(at 233.68 248.666 0)
 			(effects
 				(font
@@ -13666,6 +13774,72 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:Screw_Terminal_01x01")
+		(at 398.78 140.97 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "8850c027-4daf-48b9-a674-952283bc51c4")
+		(property "Reference" "J8"
+			(at 401.32 139.6999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Screw_Terminal_01x01"
+			(at 404.876 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "urban_mc_custom_footprints:WP-SHFU_7461100"
+			(at 398.78 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/7461100.pdf"
+			(at 398.78 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 398.78 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "44ea097b-9527-4297-be75-4d4bad7771d7")
+		)
+		(instances
+			(project ""
+				(path "/9c188f5e-4c43-43bc-b719-7c7a34d1ae77"
+					(reference "J8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 205.74 257.81 0)
 		(unit 1)
@@ -14033,7 +14207,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PG-TO247-3-901_INF"
+		(property "Footprint" "urban_mc_custom_footprints:PG-TO247-3-901_INF"
 			(at 346.456 137.668 0)
 			(effects
 				(font
@@ -14043,7 +14217,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "IRF150P220XKMA1"
+		(property "Datasheet" "https://www.infineon.com/dgdl/Infineon-IRF150P220-DataSheet-v01_01-EN.pdf?fileId=5546d46266a498f50166aca241ac65c9"
 			(at 346.456 135.382 0)
 			(effects
 				(font
@@ -14364,8 +14538,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "af8ebaba-d134-4cf7-9ccc-86922aad542e")
-		(property "Reference" "J4"
-			(at 215.9 125.7299 0)
+		(property "Reference" "HallConnectors1"
+			(at 222.758 120.396 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14382,7 +14556,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "urban_mc_custom_footprints:CON_436500300_MOL"
 			(at 218.44 127 0)
 			(effects
 				(font
@@ -14391,7 +14565,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.molex.com/content/dam/molex/molex-dot-com/products/automated/en-us/salesdrawingpdf/436/43650/436500300_sd.pdf?inline"
 			(at 218.44 127 0)
 			(effects
 				(font
@@ -14421,7 +14595,7 @@
 		(instances
 			(project ""
 				(path "/9c188f5e-4c43-43bc-b719-7c7a34d1ae77"
-					(reference "J4")
+					(reference "HallConnectors1")
 					(unit 1)
 				)
 			)
@@ -15208,7 +15382,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PG-TO247-3-901_INF"
+		(property "Footprint" "urban_mc_custom_footprints:PG-TO247-3-901_INF"
 			(at 347.98 66.294 0)
 			(effects
 				(font
@@ -15218,7 +15392,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "IRF150P220XKMA1"
+		(property "Datasheet" "https://www.infineon.com/dgdl/Infineon-IRF150P220-DataSheet-v01_01-EN.pdf?fileId=5546d46266a498f50166aca241ac65c9"
 			(at 347.472 64.262 0)
 			(effects
 				(font
@@ -15281,7 +15455,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PG-TO247-3-901_INF"
+		(property "Footprint" "urban_mc_custom_footprints:PG-TO247-3-901_INF"
 			(at 346.71 166.624 0)
 			(effects
 				(font
@@ -15291,7 +15465,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "IRF150P220XKMA1"
+		(property "Datasheet" "https://www.infineon.com/dgdl/Infineon-IRF150P220-DataSheet-v01_01-EN.pdf?fileId=5546d46266a498f50166aca241ac65c9"
 			(at 346.964 164.084 0)
 			(effects
 				(font
@@ -15621,7 +15795,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
 			(at 219.71 250.19 0)
 			(effects
 				(font
@@ -15819,6 +15993,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:Screw_Terminal_01x01")
+		(at 215.9 270.51 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e5a99667-3299-4a30-8d19-8f1c8e932bf2")
+		(property "Reference" "J10"
+			(at 218.44 269.2399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Screw_Terminal_01x01"
+			(at 218.44 271.7799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "urban_mc_custom_footprints:WP-SHFU_7461100"
+			(at 215.9 270.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/7461100.pdf"
+			(at 215.9 270.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 215.9 270.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e558b976-b014-41b3-b72c-3782d2ac71ab")
+		)
+		(instances
+			(project ""
+				(path "/9c188f5e-4c43-43bc-b719-7c7a34d1ae77"
+					(reference "J10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector:Screw_Terminal_01x02")
 		(at 111.76 113.03 0)
 		(unit 1)
@@ -15846,7 +16087,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "urban_mc_custom_footprints:CON_436500200_MOL"
 			(at 111.76 113.03 0)
 			(effects
 				(font
@@ -15855,7 +16096,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.molex.com/content/dam/molex/molex-dot-com/products/automated/en-us/salesdrawingpdf/436/43650/436500200_sd.pdf?inline"
 			(at 111.76 113.03 0)
 			(effects
 				(font
@@ -16044,79 +16285,6 @@
 			(project "Urban MC"
 				(path "/9c188f5e-4c43-43bc-b719-7c7a34d1ae77"
 					(reference "C13")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:Screw_Terminal_01x03")
-		(at 398.78 138.43 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f177130d-f545-4f45-bc35-6759ecb2f368")
-		(property "Reference" "J6"
-			(at 401.32 137.1599 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Screw_Terminal_01x03"
-			(at 401.32 139.6999 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 398.78 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 398.78 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 398.78 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "839a90a3-426c-481c-91bc-207750c83773")
-		)
-		(pin "1"
-			(uuid "b4c206be-bc1c-4a3f-8333-b9e0bd5e77fb")
-		)
-		(pin "2"
-			(uuid "487f7ad0-2deb-41b6-a558-5996d836e668")
-		)
-		(instances
-			(project ""
-				(path "/9c188f5e-4c43-43bc-b719-7c7a34d1ae77"
-					(reference "J6")
 					(unit 1)
 				)
 			)
