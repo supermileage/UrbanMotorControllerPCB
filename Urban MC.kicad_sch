@@ -5424,6 +5424,12 @@
 		(uuid "02e9063f-190d-4814-b17a-eee4f851de5b")
 	)
 	(junction
+		(at 285.75 160.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0784a9fc-462c-49ac-8a6d-02196a48b57d")
+	)
+	(junction
 		(at 402.59 156.21)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5536,6 +5542,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4f969771-de20-4b63-8847-a210163d06ad")
+	)
+	(junction
+		(at 501.65 160.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4fdc0158-ba58-4a35-99fd-cfb1121d2022")
 	)
 	(junction
 		(at 295.91 138.43)
@@ -5842,6 +5854,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c5af0f9b-dad8-4486-9acb-6de0a3c097a6")
+	)
+	(junction
+		(at 392.43 160.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c8ffddbe-7d8f-48c8-a583-339ee9d27869")
 	)
 	(junction
 		(at 304.8 234.95)
@@ -6359,6 +6377,16 @@
 	)
 	(wire
 		(pts
+			(xy 271.78 154.94) (xy 278.13 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "196a436f-245d-4d58-aeae-bc4d6d64fe91")
+	)
+	(wire
+		(pts
 			(xy 570.23 234.95) (xy 572.77 234.95)
 		)
 		(stroke
@@ -6746,6 +6774,16 @@
 			(type default)
 		)
 		(uuid "311db29e-fb59-475c-b603-e1336f9da648")
+	)
+	(wire
+		(pts
+			(xy 378.46 154.94) (xy 384.81 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "312344e4-3b14-4b70-8b11-67fc0cec2c56")
 	)
 	(wire
 		(pts
@@ -7269,6 +7307,16 @@
 	)
 	(wire
 		(pts
+			(xy 285.75 154.94) (xy 285.75 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "54a78f61-e4e4-4b66-af95-5f01f9d55cc3")
+	)
+	(wire
+		(pts
 			(xy 511.81 156.21) (xy 524.51 156.21)
 		)
 		(stroke
@@ -7336,6 +7384,16 @@
 			(type default)
 		)
 		(uuid "593cf06e-372d-4bfa-80e2-0229d40cce70")
+	)
+	(wire
+		(pts
+			(xy 501.65 154.94) (xy 501.65 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "596d4a53-2b0c-4315-8bab-8d7fcb6b1ece")
 	)
 	(wire
 		(pts
@@ -8639,6 +8697,16 @@
 	)
 	(wire
 		(pts
+			(xy 392.43 154.94) (xy 392.43 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c0fa4533-df3e-4b7e-ba82-d1e4e68ecea4")
+	)
+	(wire
+		(pts
 			(xy 411.48 198.12) (xy 411.48 215.9)
 		)
 		(stroke
@@ -9356,6 +9424,16 @@
 			(type default)
 		)
 		(uuid "face6b5e-6799-4679-9856-6765d7d8231a")
+	)
+	(wire
+		(pts
+			(xy 487.68 154.94) (xy 494.03 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fb28a3b1-75a3-4f8f-8d94-5acba1af5991")
 	)
 	(wire
 		(pts
@@ -11414,6 +11492,92 @@
 			(project "Urban MC"
 				(path "/9c188f5e-4c43-43bc-b719-7c7a34d1ae77"
 					(reference "C10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D")
+		(at 497.84 154.94 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "47a599cb-ef0d-4d82-aee4-11b302c68214")
+		(property "Reference" "D4"
+			(at 497.84 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "D"
+			(at 497.84 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+			(at 497.84 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://rocelec.widen.net/view/pdf/3zl1amyajw/FAIR-S-A0002364504-1.pdf?t.download=true&u=5oefqw"
+			(at 497.84 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 497.84 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 497.84 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 497.84 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a86a645a-2be0-4706-a558-2a1095a9f67c")
+		)
+		(pin "2"
+			(uuid "266ff54a-9818-4463-89b7-0093d7db902c")
+		)
+		(instances
+			(project "Urban MC"
+				(path "/9c188f5e-4c43-43bc-b719-7c7a34d1ae77"
+					(reference "D4")
 					(unit 1)
 				)
 			)
@@ -14558,6 +14722,92 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:D")
+		(at 281.94 154.94 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bb63e171-8a98-4ea3-b8ba-e1c760b6cfc6")
+		(property "Reference" "D2"
+			(at 281.94 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "D"
+			(at 281.94 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+			(at 281.94 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://rocelec.widen.net/view/pdf/3zl1amyajw/FAIR-S-A0002364504-1.pdf?t.download=true&u=5oefqw"
+			(at 281.94 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 281.94 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 281.94 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 281.94 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ab96a093-313c-470c-9fa3-be666b2f3862")
+		)
+		(pin "2"
+			(uuid "53de05d4-4cd1-49cd-9813-de54a3b0bee9")
+		)
+		(instances
+			(project "Urban MC"
+				(path "/9c188f5e-4c43-43bc-b719-7c7a34d1ae77"
+					(reference "D2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_name "IRF150P220XKMA1_5")
 		(lib_id "IRF150P220:IRF150P220XKMA1")
 		(at 524.51 118.11 0)
@@ -16457,6 +16707,92 @@
 			(project "Urban MC"
 				(path "/9c188f5e-4c43-43bc-b719-7c7a34d1ae77"
 					(reference "C8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D")
+		(at 388.62 154.94 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f5daa209-9467-47ae-b90b-9f3d19d6b40b")
+		(property "Reference" "D3"
+			(at 388.62 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "D"
+			(at 388.62 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+			(at 388.62 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://rocelec.widen.net/view/pdf/3zl1amyajw/FAIR-S-A0002364504-1.pdf?t.download=true&u=5oefqw"
+			(at 388.62 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 388.62 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 388.62 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 388.62 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "fdf91d32-4f2a-443b-95d5-d607f73df225")
+		)
+		(pin "2"
+			(uuid "d1d1517b-5d7f-4ce2-9a52-d00187407651")
+		)
+		(instances
+			(project "Urban MC"
+				(path "/9c188f5e-4c43-43bc-b719-7c7a34d1ae77"
+					(reference "D3")
 					(unit 1)
 				)
 			)
