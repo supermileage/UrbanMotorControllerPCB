@@ -556,7 +556,7 @@
 	(footprint "Resistor_SMD:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "02285834-f4cc-447f-962f-8182c2099e7e")
-		(at 185.83 -16.52)
+		(at 147.01 108.96)
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R8"
@@ -769,7 +769,7 @@
 	(footprint "urban_mc_custom_footprints:IFX-PG-WHTFN-9-1-V"
 		(layer "F.Cu")
 		(uuid "03e46370-144d-43a5-8825-3e46704d6cbe")
-		(at 146.0598 -17.001)
+		(at 201.475 75.3635)
 		(property "Reference" "Q2"
 			(at -2.7432 -2.2098 0)
 			(unlocked yes)
@@ -1370,7 +1370,7 @@
 	(footprint "Resistor_SMD:R_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "0d04cf56-6bdc-40da-8b8f-526bf2ebb034")
-		(at 173.93 9.38)
+		(at 129.28 122.98)
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R3"
@@ -1583,7 +1583,7 @@
 	(footprint "urban_mc_custom_footprints:IFX-PG-WHTFN-9-1-V"
 		(layer "F.Cu")
 		(uuid "0f9a903e-b075-4cfa-b2b8-aa19f241aa81")
-		(at 152.2096 -17.001)
+		(at 201.5 99)
 		(property "Reference" "Q9"
 			(at -2.7432 -2.2098 0)
 			(unlocked yes)
@@ -2184,7 +2184,7 @@
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
 		(layer "F.Cu")
 		(uuid "115d8778-9d2d-4c51-b338-003c35410e48")
-		(at 169.7 2.9)
+		(at 125.05 116.5)
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C7"
@@ -2397,7 +2397,7 @@
 	(footprint "urban_mc_custom_footprints:IFX-PG-WHTFN-9-1-V"
 		(layer "F.Cu")
 		(uuid "17626d24-9116-45d7-a65c-e8e31d81b200")
-		(at 158.3594 5.847)
+		(at 200.475 143.9875)
 		(property "Reference" "Q20"
 			(at -2.7432 -2.2098 0)
 			(unlocked yes)
@@ -2998,7 +2998,7 @@
 	(footprint "urban_mc_custom_footprints:IFX-PG-WHTFN-9-1-V"
 		(layer "F.Cu")
 		(uuid "177fa24b-d8c1-4ac4-b671-13929fb61860")
-		(at 146.0598 0.135)
+		(at 213 68.5)
 		(property "Reference" "Q5"
 			(at -2.7432 -2.2098 0)
 			(unlocked yes)
@@ -3599,7 +3599,7 @@
 	(footprint "Capacitor_SMD:C_2220_5750Metric"
 		(layer "F.Cu")
 		(uuid "1ac2817f-a051-4bec-b75c-ad8174d7a296")
-		(at 171.7 -22)
+		(at 226.95 78.5)
 		(descr "Capacitor SMD 2220 (5750 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size from: http://datasheets.avx.com/AVX-HV_MLCC.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C6"
@@ -4300,7 +4300,7 @@
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
 		(layer "F.Cu")
 		(uuid "252c27ea-79b5-42bd-ae1a-9212642e6b3f")
-		(at 169.7 -3.12)
+		(at 125.05 110.48)
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C4"
@@ -4513,7 +4513,7 @@
 	(footprint "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "28fdb878-214a-4487-b0c8-da8112d868ce")
-		(at 173.8 -2.5)
+		(at 164.42 77.25)
 		(descr "Diode, DO-41_SOD81 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf")
 		(tags "Diode DO-41_SOD81 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
 		(property "Reference" "D2"
@@ -4898,7 +4898,7 @@
 	(footprint "Capacitor_SMD:C_2220_5750Metric"
 		(layer "F.Cu")
 		(uuid "2ce00885-4707-4485-9b7b-7d4c74b3f84f")
-		(at 171.7 -8.1)
+		(at 229.95 139.5)
 		(descr "Capacitor SMD 2220 (5750 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size from: http://datasheets.avx.com/AVX-HV_MLCC.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C12"
@@ -5111,7 +5111,7 @@
 	(footprint "urban_mc_custom_footprints:IFX-PG-WHTFN-9-1-V"
 		(layer "F.Cu")
 		(uuid "2f1f4df1-aa46-4bdd-ab9c-24b854d18ca5")
-		(at 152.2096 5.847)
+		(at 215.3502 99.06)
 		(property "Reference" "Q13"
 			(at -2.7432 -2.2098 0)
 			(unlocked yes)
@@ -7306,7 +7306,7 @@
 	(footprint "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "3c012e88-6272-4524-abc5-ea963160da94")
-		(at 173.8 6)
+		(at 166.84 132)
 		(descr "Diode, DO-41_SOD81 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf")
 		(tags "Diode DO-41_SOD81 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
 		(property "Reference" "D4"
@@ -7691,7 +7691,7 @@
 	(footprint "urban_mc_custom_footprints:IFX-PG-WHTFN-9-1-V"
 		(layer "F.Cu")
 		(uuid "3cf80670-e328-4ec2-b24a-d6a6b0cc0f66")
-		(at 158.3594 -5.577)
+		(at 200.475 132.5635)
 		(property "Reference" "Q18"
 			(at -2.7432 -2.2098 0)
 			(unlocked yes)
@@ -8292,7 +8292,7 @@
 	(footprint "Resistor_SMD:R_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "3f13ff81-dc26-40d0-9c86-ab685a6d4a60")
-		(at 173.93 14.4)
+		(at 129.28 128)
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R10"
@@ -8505,7 +8505,7 @@
 	(footprint "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "3f6fce29-a6e0-456e-ac84-df1d6d1220ff")
-		(at 173.8 1.75)
+		(at 164.42 101)
 		(descr "Diode, DO-41_SOD81 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf")
 		(tags "Diode DO-41_SOD81 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
 		(property "Reference" "D3"
@@ -9378,7 +9378,7 @@
 	(footprint "urban_mc_custom_footprints:IFX-PG-WHTFN-9-1-V"
 		(layer "F.Cu")
 		(uuid "42a078c4-7610-40f5-979b-8919d08802de")
-		(at 146.0598 -11.289)
+		(at 201.475 81.0755)
 		(property "Reference" "Q3"
 			(at -2.7432 -2.2098 0)
 			(unlocked yes)
@@ -9979,7 +9979,7 @@
 	(footprint "Resistor_SMD:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "4c703ce8-cf7b-40dc-88c0-033adb7b7c76")
-		(at 185.83 -20.5)
+		(at 147.01 104.98)
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R5"
@@ -10192,7 +10192,7 @@
 	(footprint "urban_mc_custom_footprints:IFX-PG-WHTFN-9-1-V"
 		(layer "F.Cu")
 		(uuid "4ee95002-0d99-44e3-9e05-db54334dbbff")
-		(at 152.2096 0.135)
+		(at 201.5 116.136)
 		(property "Reference" "Q12"
 			(at -2.7432 -2.2098 0)
 			(unlocked yes)
@@ -10793,7 +10793,7 @@
 	(footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
 		(layer "F.Cu")
 		(uuid "553962cb-babc-4a54-9a48-6cf49f66775e")
-		(at 180.15 -8.96)
+		(at 186.475 135.365)
 		(descr "SOIC, 8 Pin (JEDEC MS-012AA, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_8.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 		(tags "SOIC SO")
 		(property "Reference" "U3"
@@ -11595,7 +11595,7 @@
 	(footprint "urban_mc_custom_footprints:IFX-PG-WHTFN-9-1-V"
 		(layer "F.Cu")
 		(uuid "5875e0b8-5561-4aaa-8430-f69e3e151bb3")
-		(at 152.2096 -11.289)
+		(at 201.5 104.712)
 		(property "Reference" "Q10"
 			(at -2.7432 -2.2098 0)
 			(unlocked yes)
@@ -12650,7 +12650,7 @@
 	(footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
 		(layer "F.Cu")
 		(uuid "683239ed-2199-468d-a760-40dc26d04798")
-		(at 180.15 -22.12)
+		(at 182.975 77.405)
 		(descr "SOIC, 8 Pin (JEDEC MS-012AA, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_8.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 		(tags "SOIC SO")
 		(property "Reference" "U1"
@@ -12964,7 +12964,7 @@
 	(footprint "urban_mc_custom_footprints:IFX-PG-WHTFN-9-1-V"
 		(layer "F.Cu")
 		(uuid "6a1a46c2-e5a8-456b-b8c3-1553789ca19e")
-		(at 158.3594 -11.289)
+		(at 200.475 126.8515)
 		(property "Reference" "Q17"
 			(at -2.7432 -2.2098 0)
 			(unlocked yes)
@@ -13925,7 +13925,7 @@
 	(footprint "urban_mc_custom_footprints:IFX-PG-WHTFN-9-1-V"
 		(layer "F.Cu")
 		(uuid "6eca14f5-d0fc-4743-82f3-23e70277b389")
-		(at 158.3594 -17.001)
+		(at 215.5 115.712)
 		(property "Reference" "Q16"
 			(at -2.7432 -2.2098 0)
 			(unlocked yes)
@@ -14526,7 +14526,7 @@
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
 		(layer "F.Cu")
 		(uuid "76aa266c-bc8e-4740-8b43-6606c68161b8")
-		(at 169.7 5.91)
+		(at 125.05 119.51)
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C8"
@@ -15972,7 +15972,7 @@
 	(footprint "Resistor_SMD:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "804f1135-c0cb-4ccd-9449-83a23352b13a")
-		(at 185.83 -24.48)
+		(at 147.01 101)
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R2"
@@ -16185,7 +16185,7 @@
 	(footprint "urban_mc_custom_footprints:IFX-PG-WHTFN-9-1-V"
 		(layer "F.Cu")
 		(uuid "841f5609-4680-4c34-8b44-643711e089ec")
-		(at 158.3594 -22.713)
+		(at 215.5 110)
 		(property "Reference" "Q15"
 			(at -2.7432 -2.2098 0)
 			(unlocked yes)
@@ -16786,7 +16786,7 @@
 	(footprint "urban_mc_custom_footprints:IFX-PG-WHTFN-9-1-V"
 		(layer "F.Cu")
 		(uuid "884eeaad-c3bf-4a23-9cc8-7fd5aeb87add")
-		(at 146.0598 11.559)
+		(at 213 79.924)
 		(property "Reference" "Q7"
 			(at -2.7432 -2.2098 0)
 			(unlocked yes)
@@ -17387,7 +17387,7 @@
 	(footprint "urban_mc_custom_footprints:IFX-PG-WHTFN-9-1-V"
 		(layer "F.Cu")
 		(uuid "8ae1015f-d79c-47b3-9a7f-193af1aec53b")
-		(at 164.5092 -11.289)
+		(at 215.5 144.424)
 		(property "Reference" "Q24"
 			(at -2.7432 -2.2098 0)
 			(unlocked yes)
@@ -17988,7 +17988,7 @@
 	(footprint "Resistor_SMD:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "8bc6abae-450c-43f2-8bfa-1e285ac390df")
-		(at 185.83 -18.51)
+		(at 147.01 106.97)
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R6"
@@ -18561,7 +18561,7 @@
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
 		(layer "F.Cu")
 		(uuid "97e11e00-ed4e-45d7-a570-83bcd4222ded")
-		(at 169.7 -0.11)
+		(at 125.05 113.49)
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C5"
@@ -18987,7 +18987,7 @@
 	(footprint "Capacitor_SMD:C_2220_5750Metric"
 		(layer "F.Cu")
 		(uuid "9d7d494c-6fdc-474a-b413-b0d34f5128ea")
-		(at 171.7 -15.05)
+		(at 230.45 104.5)
 		(descr "Capacitor SMD 2220 (5750 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size from: http://datasheets.avx.com/AVX-HV_MLCC.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C9"
@@ -19200,7 +19200,7 @@
 	(footprint "urban_mc_custom_footprints:IFX-PG-WHTFN-9-1-V"
 		(layer "F.Cu")
 		(uuid "9ed16028-720a-4df5-8d17-34d1b10fdd83")
-		(at 164.5092 -22.713)
+		(at 215.5 133)
 		(property "Reference" "Q22"
 			(at -2.7432 -2.2098 0)
 			(unlocked yes)
@@ -19801,7 +19801,7 @@
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
 		(layer "F.Cu")
 		(uuid "9fd21589-ac0d-4410-9fdd-f4dfa355669f")
-		(at 169.7 11.93)
+		(at 125.05 125.53)
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C11"
@@ -21502,7 +21502,7 @@
 	(footprint "urban_mc_custom_footprints:IFX-PG-WHTFN-9-1-V"
 		(layer "F.Cu")
 		(uuid "a7277248-d750-4a73-8e05-c857ca71cac6")
-		(at 152.2096 -5.577)
+		(at 201.5 110.424)
 		(property "Reference" "Q11"
 			(at -2.7432 -2.2098 0)
 			(unlocked yes)
@@ -22316,7 +22316,7 @@
 	(footprint "urban_mc_custom_footprints:IFX-PG-WHTFN-9-1-V"
 		(layer "F.Cu")
 		(uuid "a9bb3771-faf9-4e0f-88c9-010eacbaa152")
-		(at 146.0598 -22.713)
+		(at 201.475 69.6515)
 		(property "Reference" "Q1"
 			(at -2.7432 -2.2098 0)
 			(unlocked yes)
@@ -22917,7 +22917,7 @@
 	(footprint "Resistor_SMD:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "abdf8d37-3434-4181-89b7-4a4b51aca574")
-		(at 185.83 -14.53)
+		(at 147.01 110.95)
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R9"
@@ -23130,7 +23130,7 @@
 	(footprint "Resistor_SMD:R_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "adc5fce3-3d16-4265-a978-e4130d9ed473")
-		(at 173.93 11.89)
+		(at 129.28 125.49)
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R7"
@@ -23343,7 +23343,7 @@
 	(footprint "Resistor_SMD:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "b43da5a0-ab1d-437a-9932-3d57900c4a77")
-		(at 185.83 -22.49)
+		(at 147.01 102.99)
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R4"
@@ -23556,9 +23556,9 @@
 	(footprint "urban_mc_custom_footprints:IFX-PG-WHTFN-9-1-V"
 		(layer "F.Cu")
 		(uuid "b655611e-8057-4dc4-ac4b-7fd9c5308406")
-		(at 152.2096 -22.713)
+		(at 213.525 86.3375)
 		(property "Reference" "Q8"
-			(at -2.7432 -2.2098 0)
+			(at -2.7432 -2.287 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "54c5f257-b806-42c8-9edc-ce9d2058df83")
@@ -24157,7 +24157,7 @@
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
 		(layer "F.Cu")
 		(uuid "bc4741da-37a3-4b08-9556-945cd88e8258")
-		(at 169.7 8.92)
+		(at 125.05 122.52)
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C10"
@@ -24370,7 +24370,7 @@
 	(footprint "urban_mc_custom_footprints:IFX-PG-WHTFN-9-1-V"
 		(layer "F.Cu")
 		(uuid "bf198511-632c-4c2b-bc61-5b4c85757f47")
-		(at 146.0598 5.847)
+		(at 213 74.212)
 		(property "Reference" "Q6"
 			(at -2.7432 -2.2098 0)
 			(unlocked yes)
@@ -24971,7 +24971,7 @@
 	(footprint "urban_mc_custom_footprints:IFX-PG-WHTFN-9-1-V"
 		(layer "F.Cu")
 		(uuid "c5687a19-d5ab-4913-ab7b-52fbf56fa79d")
-		(at 164.5092 -17.001)
+		(at 215.5 138.712)
 		(property "Reference" "Q23"
 			(at -2.7432 -2.2098 0)
 			(unlocked yes)
@@ -25785,7 +25785,7 @@
 	(footprint "urban_mc_custom_footprints:IFX-PG-WHTFN-9-1-V"
 		(layer "F.Cu")
 		(uuid "c93f93de-25ce-4769-ad2a-2151db5ad52c")
-		(at 146.0598 -5.577)
+		(at 201.475 86.7875)
 		(property "Reference" "Q4"
 			(at -2.7432 -2.2098 0)
 			(unlocked yes)
@@ -26386,7 +26386,7 @@
 	(footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
 		(layer "F.Cu")
 		(uuid "cba6cf53-2ad0-43e0-9e58-d91096562f09")
-		(at 180.15 -15.54)
+		(at 185.5 104.08)
 		(descr "SOIC, 8 Pin (JEDEC MS-012AA, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_8.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 		(tags "SOIC SO")
 		(property "Reference" "U2"
@@ -27207,7 +27207,7 @@
 	(footprint "urban_mc_custom_footprints:IFX-PG-WHTFN-9-1-V"
 		(layer "F.Cu")
 		(uuid "dcf42d43-db6d-42ca-a7a0-886f1038b992")
-		(at 158.3594 0.135)
+		(at 200.475 138.2755)
 		(property "Reference" "Q19"
 			(at -2.7432 -2.2098 0)
 			(unlocked yes)
@@ -28021,7 +28021,7 @@
 	(footprint "urban_mc_custom_footprints:IFX-PG-WHTFN-9-1-V"
 		(layer "F.Cu")
 		(uuid "ea448c14-ad09-4657-98a5-ae7e0b40c501")
-		(at 158.3594 11.559)
+		(at 215.5 126.5)
 		(property "Reference" "Q21"
 			(at -2.7432 -2.2098 0)
 			(unlocked yes)
@@ -28835,7 +28835,7 @@
 	(footprint "urban_mc_custom_footprints:IFX-PG-WHTFN-9-1-V"
 		(layer "F.Cu")
 		(uuid "ebe6d61b-1947-4b7e-9058-69f97e460287")
-		(at 152.2096 11.559)
+		(at 215.3502 104.772)
 		(property "Reference" "Q14"
 			(at -2.7432 -2.2098 0)
 			(unlocked yes)
