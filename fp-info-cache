@@ -1,4 +1,4 @@
-24204902223928864
+24210109110955540
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -97965,6 +97965,13 @@ Varistor VF
 2
 2
 urban_mc_custom_footprints
+CONN3_1986660-3_TEC
+
+1986660-3 
+0
+6
+6
+urban_mc_custom_footprints
 CONV_LCW78_12-1.0
 
 
@@ -98027,6 +98034,20 @@ IRF150P220XKMA1
 0
 3
 3
+urban_mc_custom_footprints
+TE_1-1986660-2
+
+
+0
+4
+4
+urban_mc_custom_footprints
+TE_1986660-3
+
+
+0
+6
+6
 urban_mc_custom_footprints
 WP-SHFU_7461100
 <b>WP-SHFU External thread, full plain<br></b>Drill hole specification for chemical surfaces<br>Thread M10 , 36pins<br>Max Height = 24mm
