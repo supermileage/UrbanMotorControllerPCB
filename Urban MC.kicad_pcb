@@ -7984,8 +7984,8 @@
 		(at 115.57 88.9)
 		(descr "Arduino Nano, http://www.mouser.com/pdfdocs/Gravitech_Arduino_Nano3_0.pdf")
 		(tags "Arduino Nano")
-		(property "Reference" "A1"
-			(at -0.762 42.926 0)
+		(property "Reference" "A1 - Motor Control"
+			(at 5.842 42.926 0)
 			(layer "F.SilkS")
 			(uuid "b65fd0a8-5642-4e08-9bb9-3da81b2ac677")
 			(effects
@@ -19395,8 +19395,8 @@
 		(at 109.982 78.74 180)
 		(descr "Arduino Nano, http://www.mouser.com/pdfdocs/Gravitech_Arduino_Nano3_0.pdf")
 		(tags "Arduino Nano")
-		(property "Reference" "A2"
-			(at 15.748 -4.826 0)
+		(property "Reference" "A2 - CAN"
+			(at 13.208 -4.826 0)
 			(layer "F.SilkS")
 			(uuid "1e9739bd-2adf-4aee-9718-2dc05dc4a2a2")
 			(effects
@@ -23931,18 +23931,6 @@
 			(unlocked yes)
 			(layer "Cmts.User")
 			(uuid "b6179329-55e3-4872-b2d0-650454896ea1")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(fp_text user "${REFERENCE}"
-			(at 2.613506 -1.630764 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(uuid "36cea927-5248-4ada-abf6-50c0572b3c31")
 			(effects
 				(font
 					(size 1 1)
@@ -30740,6 +30728,127 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "f6422131-5eb8-4a20-80eb-db7eec3ada4d")
+	)
+	(gr_text "C\n"
+		(at 104.648 127.254 270)
+		(layer "F.SilkS")
+		(uuid "045e51b9-9701-44ce-a3e7-78e1d56d61af")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "+\n"
+		(at 103.886 96.52 270)
+		(layer "F.SilkS")
+		(uuid "0a09c558-6b3d-47e8-9894-61a0a461bd4f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "+"
+		(at 239.268 137.668 90)
+		(layer "F.SilkS")
+		(uuid "2f6bb7a4-4e12-47cd-bc75-3326ee9af94e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "H\n"
+		(at 134.112 40.64 0)
+		(layer "F.SilkS")
+		(uuid "60a8f00d-0360-49f8-ba8f-2ba4254e5e46")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "H\n"
+		(at 122.428 39.624 180)
+		(layer "F.SilkS")
+		(uuid "6f29731c-7db3-4104-a5eb-72e588318d39")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "L"
+		(at 138.938 40.64 180)
+		(layer "F.SilkS")
+		(uuid "932b9dda-dbc2-4df0-b4bc-eb18f37217e6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "-\n"
+		(at 239.268 131.318 90)
+		(layer "F.SilkS")
+		(uuid "9d7bc122-697a-43da-9fee-928d8cffc743")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "-"
+		(at 103.886 91.948 270)
+		(layer "F.SilkS")
+		(uuid "9f220152-d59c-4e81-bfed-42aa9abd062c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "L\n"
+		(at 127.254 39.624 180)
+		(layer "F.SilkS")
+		(uuid "b3c50b02-aa38-4bf1-8f62-7e33cd5bde12")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "A"
+		(at 104.648 121.412 -90)
+		(layer "F.SilkS")
+		(uuid "c2f30213-b2e0-40f8-8e35-568b699f59ee")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "B\n"
+		(at 104.648 123.444 270)
+		(layer "F.SilkS")
+		(uuid "f8fe84cd-8333-4c92-85b8-6e0840400803")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
 	)
 	(segment
 		(start 117.219604 127)
