@@ -7776,10 +7776,6 @@
 		(uuid "6546b29f-3292-469f-a096-04bd429fa14a")
 	)
 	(no_connect
-		(at 71.12 93.98)
-		(uuid "6cd176cb-dbe4-4645-8eaf-4474ec2297ab")
-	)
-	(no_connect
 		(at 140.97 76.2)
 		(uuid "6e43103b-a19e-4ac6-96fb-6775a54b48c2")
 	)
@@ -8058,6 +8054,16 @@
 			(type default)
 		)
 		(uuid "158e5a24-8c69-4f6d-a663-05276781b5cf")
+	)
+	(wire
+		(pts
+			(xy 365.76 119.38) (xy 345.44 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "17402aed-dac6-470a-921d-929da276a6b6")
 	)
 	(wire
 		(pts
@@ -8388,16 +8394,6 @@
 			(type default)
 		)
 		(uuid "31341155-61a6-41cf-bbee-cf7e98f9e17b")
-	)
-	(wire
-		(pts
-			(xy 345.44 119.38) (xy 365.76 119.38)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "317cc5dd-5d4e-4773-b289-f32a0222a509")
 	)
 	(wire
 		(pts
@@ -8808,6 +8804,16 @@
 			(type default)
 		)
 		(uuid "4db24f70-4d65-4f75-8541-c09d72a6a03c")
+	)
+	(wire
+		(pts
+			(xy 397.51 68.58) (xy 392.43 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4e1cd186-9cf8-4ec7-a821-ebf5cbe6e2fa")
 	)
 	(wire
 		(pts
@@ -9351,16 +9357,6 @@
 	)
 	(wire
 		(pts
-			(xy 392.43 64.77) (xy 392.43 68.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7adc67c9-8dbb-4ed9-96cf-8b555b59aecf")
-	)
-	(wire
-		(pts
 			(xy 212.09 102.87) (xy 212.09 100.33)
 		)
 		(stroke
@@ -9738,6 +9734,16 @@
 			(type default)
 		)
 		(uuid "a14c1a4c-c396-44de-9360-36b47da7c35e")
+	)
+	(wire
+		(pts
+			(xy 365.76 68.58) (xy 345.44 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a1de5459-b6f7-4cff-865c-57d8611a3c2b")
 	)
 	(wire
 		(pts
@@ -10191,16 +10197,6 @@
 	)
 	(wire
 		(pts
-			(xy 392.43 64.77) (xy 397.51 64.77)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c4d643c7-6bca-4bef-98a2-dbcdf63ec498")
-	)
-	(wire
-		(pts
 			(xy 35.56 170.18) (xy 35.56 172.72)
 		)
 		(stroke
@@ -10221,7 +10217,7 @@
 	)
 	(wire
 		(pts
-			(xy 397.51 64.77) (xy 397.51 113.03)
+			(xy 397.51 68.58) (xy 397.51 113.03)
 		)
 		(stroke
 			(width 0)
@@ -10478,16 +10474,6 @@
 			(type default)
 		)
 		(uuid "dd66f441-bc44-489b-b30e-6c029ea148de")
-	)
-	(wire
-		(pts
-			(xy 345.44 68.58) (xy 365.76 68.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "de63cc8e-c9a4-4172-b283-9ae9bbe0b194")
 	)
 	(wire
 		(pts
@@ -10946,6 +10932,17 @@
 		)
 		(uuid "27356249-9e5d-4736-a289-37388fc70a65")
 	)
+	(label "PHASE 3 OUTPUT"
+		(at 397.51 167.64 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2ed93065-1bee-4a68-a37e-b2c71e61317a")
+	)
 	(label "HALL C"
 		(at 215.9 80.01 180)
 		(fields_autoplaced yes)
@@ -11001,6 +10998,17 @@
 		)
 		(uuid "6d69218d-5629-4716-92ab-ff9d3a0b81ef")
 	)
+	(label "PHASE 1 OUTPUT"
+		(at 397.51 68.58 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "722dfe48-6104-4f24-80b5-015f69a3cc2c")
+	)
 	(label "CAN HIGH"
 		(at 83.82 64.77 0)
 		(fields_autoplaced yes)
@@ -11011,6 +11019,17 @@
 			(justify left bottom)
 		)
 		(uuid "9fd47906-6008-4bc3-82ca-cd3c83d2116d")
+	)
+	(label "PHASE 2 OUTPUT"
+		(at 383.54 119.38 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "bee413a1-dd98-424f-a3e9-f547861f98a0")
 	)
 	(label "VB"
 		(at 86.36 172.72 0)
@@ -12297,7 +12316,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://product.tdk.com/en/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_commercial_midvoltage_en.pdf"
 			(at 392.43 175.26 0)
 			(effects
 				(font
@@ -13620,7 +13639,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://product.tdk.com/en/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_commercial_midvoltage_en.pdf"
 			(at 392.43 127 0)
 			(effects
 				(font
@@ -14176,7 +14195,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://product.tdk.com/en/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_commercial_midvoltage_en.pdf"
 			(at 392.43 76.2 0)
 			(effects
 				(font
@@ -14719,6 +14738,71 @@
 			(project "Urban MC"
 				(path "/9c188f5e-4c43-43bc-b719-7c7a34d1ae77"
 					(reference "#PWR09")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 238.76 45.72 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "6b52f3d2-c327-4996-abeb-fb80a44d864d")
+		(property "Reference" "#PWR01"
+			(at 238.76 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 238.76 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 238.76 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 238.76 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 238.76 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ba553153-bbc0-4e0f-8ce4-f808df2d53f2")
+		)
+		(instances
+			(project "Urban MC"
+				(path "/9c188f5e-4c43-43bc-b719-7c7a34d1ae77"
+					(reference "#PWR01")
 					(unit 1)
 				)
 			)
@@ -17459,6 +17543,71 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+5V")
+		(at 71.12 93.98 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b79121cd-69ed-4436-9011-e96fb37cc61a")
+		(property "Reference" "#PWR037"
+			(at 71.12 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 71.12 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 71.12 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 71.12 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 71.12 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ab7593b5-f49b-4eed-a33b-925ebace5209")
+		)
+		(instances
+			(project "Urban MC"
+				(path "/9c188f5e-4c43-43bc-b719-7c7a34d1ae77"
+					(reference "#PWR037")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_name "root_0_IQE022N06LM5CGSC_5")
 		(lib_id "Supermileage Symbols:root_0_IQE022N06LM5CGSC")
 		(at 378.46 157.48 0)
@@ -17543,72 +17692,6 @@
 			(project "Urban MC"
 				(path "/9c188f5e-4c43-43bc-b719-7c7a34d1ae77"
 					(reference "Q20")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+12V")
-		(at 238.76 45.72 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b9377867-2fb9-40b6-bed9-1f470c33e678")
-		(property "Reference" "#PWR01"
-			(at 238.76 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+12V"
-			(at 238.76 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 238.76 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 238.76 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at 238.76 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "f4be403f-a314-4201-b3e8-3fd0f0d4ea55")
-		)
-		(instances
-			(project ""
-				(path "/9c188f5e-4c43-43bc-b719-7c7a34d1ae77"
-					(reference "#PWR01")
 					(unit 1)
 				)
 			)
