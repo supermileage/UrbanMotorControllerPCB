@@ -1,4 +1,4 @@
-24210126158499637
+24213604132240750
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -98021,6 +98021,13 @@ DO-201AD
 2
 2
 urban_mc_custom_footprints
+HEATSINK-518-95AB
+
+
+0
+0
+0
+urban_mc_custom_footprints
 IFX-PG-WHTFN-9-1-V
 
 
@@ -98034,6 +98041,13 @@ IRF150P220XKMA1
 0
 3
 3
+urban_mc_custom_footprints
+SW_TS04-66-70-BK-160-SMT
+
+
+0
+4
+4
 urban_mc_custom_footprints
 TE_1-1986660-2
 
