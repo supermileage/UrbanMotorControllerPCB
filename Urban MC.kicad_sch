@@ -11769,7 +11769,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.molex.com/content/dam/molex/molex-dot-com/products/automated/en-us/salesdrawingpdf/436/43650/436500200_sd.pdf?inline"
 			(at 97.79 58.42 0)
 			(effects
 				(font
@@ -12033,7 +12033,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
+		(property "Footprint" "urban_mc_custom_footprints:SW_TS04-66-70-BK-160-SMT"
 			(at 250.19 74.93 0)
 			(effects
 				(font
@@ -12042,7 +12042,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.sameskydevices.com/product/resource/ts04.pdf"
 			(at 250.19 74.93 0)
 			(effects
 				(font
@@ -12176,7 +12176,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.molex.com/content/dam/molex/molex-dot-com/products/automated/en-us/salesdrawingpdf/436/43650/436500200_sd.pdf?inline"
 			(at 201.93 102.87 0)
 			(effects
 				(font
@@ -12576,7 +12576,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM21BR61H106KE43-01A.pdf"
 			(at 308.61 72.39 0)
 			(effects
 				(font
@@ -12710,7 +12710,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf"
 			(at 76.2 59.69 0)
 			(effects
 				(font
@@ -12779,7 +12779,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.te.com/usa-en/product-1986660-2.datasheet.pdf"
 			(at 26.67 179.07 0)
 			(effects
 				(font
@@ -12846,7 +12846,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM21BR61H106KE43-01A.pdf"
 			(at 308.61 171.45 0)
 			(effects
 				(font
@@ -13062,7 +13062,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 49.149 78.994 90)
 			(effects
 				(font
@@ -13071,7 +13071,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C304.pdf"
 			(at 48.895 80.01 0)
 			(effects
 				(font
@@ -13454,7 +13454,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM21BR61H106KE43-01A.pdf"
 			(at 308.61 123.19 0)
 			(effects
 				(font
@@ -13587,7 +13587,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.ca/en/products/detail/vishay-dale/CRCW040211R0FKED/1177783"
 			(at 313.69 67.31 0)
 			(effects
 				(font
@@ -13721,7 +13721,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM21BR61H106KE43-01A.pdf"
 			(at 285.75 165.1 0)
 			(effects
 				(font
@@ -13878,7 +13878,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.ca/en/products/detail/vishay-dale/CRCW040211R0FKED/1177783"
 			(at 308.61 82.55 0)
 			(effects
 				(font
@@ -13994,7 +13994,7 @@
 				)
 			)
 		)
-		(property "Value" "10uF"
+		(property "Value" "10u"
 			(at 170.688 73.914 90)
 			(effects
 				(font
@@ -14002,7 +14002,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 170.18 71.12 0)
 			(effects
 				(font
@@ -14011,7 +14011,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM21BR61C106KE15-01.pdf"
+		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM21BR61H106KE43-01A.pdf"
 			(at 170.18 71.12 0)
 			(effects
 				(font
@@ -14078,7 +14078,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.ca/en/products/detail/vishay-dale/CRCW040211R0FKED/1177783"
 			(at 313.69 118.11 0)
 			(effects
 				(font
@@ -14212,7 +14212,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf"
 			(at 320.04 72.39 0)
 			(effects
 				(font
@@ -14883,7 +14883,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://content.kemet.com/datasheets/KEM_C1003_C0G_SMD.pdf"
 			(at 33.02 119.38 0)
 			(effects
 				(font
@@ -14953,7 +14953,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.molex.com/content/dam/molex/molex-dot-com/products/automated/en-us/salesdrawingpdf/436/43650/436500200_sd.pdf?inline"
 			(at 97.79 64.77 0)
 			(effects
 				(font
@@ -15177,7 +15177,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM21BR61H106KE43-01A.pdf"
 			(at 243.84 48.26 0)
 			(effects
 				(font
@@ -15453,7 +15453,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/658/CL31A226KAHNNNE_Spec.pdf"
 			(at 83.82 180.34 0)
 			(effects
 				(font
@@ -15721,7 +15721,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C304.pdf"
 			(at 144.78 77.47 0)
 			(effects
 				(font
@@ -15881,7 +15881,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM21BR61H106KE43-01A.pdf"
 			(at 38.1 180.34 0)
 			(effects
 				(font
@@ -16108,7 +16108,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.te.com/usa-en/product-1986660-3.datasheet.pdf"
 			(at 415.29 119.38 0)
 			(effects
 				(font
@@ -16469,7 +16469,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C304.pdf"
 			(at 218.44 96.52 0)
 			(effects
 				(font
@@ -16536,7 +16536,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM21BR61H106KE43-01A.pdf"
 			(at 285.75 116.84 0)
 			(effects
 				(font
@@ -16767,7 +16767,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.molex.com/content/dam/molex/molex-dot-com/products/automated/en-us/salesdrawingpdf/436/43650/436500300_sd.pdf?inline"
 			(at 204.47 82.55 0)
 			(effects
 				(font
@@ -17681,7 +17681,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://content.kemet.com/datasheets/KEM_C1003_C0G_SMD.pdf"
 			(at 33.02 127 0)
 			(effects
 				(font
@@ -17878,7 +17878,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.ca/en/products/detail/vishay-dale/CRCW040211R0FKED/1177783"
 			(at 313.69 166.37 0)
 			(effects
 				(font
@@ -18037,7 +18037,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://ww1.microchip.com/downloads/en/devicedoc/21667d.pdf"
+		(property "Datasheet" "MCP2561/2 Data Sheet"
 			(at 57.15 64.77 0)
 			(effects
 				(font
@@ -18691,7 +18691,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.ca/en/products/detail/vishay-dale/CRCW040211R0FKED/1177783"
 			(at 308.61 181.61 0)
 			(effects
 				(font
@@ -18758,7 +18758,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM21BR61H106KE43-01A.pdf"
 			(at 285.75 66.04 0)
 			(effects
 				(font
@@ -19073,7 +19073,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C304.pdf"
 			(at 147.32 77.47 0)
 			(effects
 				(font
@@ -19267,7 +19267,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf"
 			(at 320.04 123.19 0)
 			(effects
 				(font
@@ -19334,7 +19334,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf"
 			(at 320.04 171.45 0)
 			(effects
 				(font
@@ -19626,7 +19626,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_commercial_general_en.pdf"
 			(at 48.26 180.34 0)
 			(effects
 				(font
@@ -20009,7 +20009,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.ca/en/products/detail/vishay-dale/CRCW040211R0FKED/1177783"
 			(at 308.61 133.35 0)
 			(effects
 				(font
