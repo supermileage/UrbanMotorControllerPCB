@@ -198,6 +198,108 @@
 				)
 			)
 		)
+		(symbol "Connector:TestPoint"
+			(pin_numbers hide)
+			(pin_names
+				(offset 0.762) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "TP"
+				(at 0 6.858 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "TestPoint"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 5.08 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 5.08 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "test point"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "test point tp"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Pin* Test*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "TestPoint_0_1"
+				(circle
+					(center 0 3.302)
+					(radius 0.762)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "TestPoint_1_1"
+				(pin passive line
+					(at 0 0 90)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "Connector_Generic:Conn_01x02"
 			(pin_names
 				(offset 1.016) hide)
@@ -7282,6 +7384,12 @@
 		(uuid "26231cff-6198-42c0-adf9-f9a320dadcc1")
 	)
 	(junction
+		(at 40.64 172.72)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2791e110-ef63-43b7-bcb2-5e99cdfa06eb")
+	)
+	(junction
 		(at 327.66 68.58)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7522,6 +7630,12 @@
 		(uuid "85fd5fa8-454a-403a-963b-6952c67240d5")
 	)
 	(junction
+		(at 57.15 48.26)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "86893f32-92e5-4914-b699-05a019a68ea4")
+	)
+	(junction
 		(at 163.83 60.96)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7634,6 +7748,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b9fef522-109e-47c6-a089-c7642b10c4ee")
+	)
+	(junction
+		(at 125.73 63.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ba229c55-af7e-4b36-87f5-0082da955362")
 	)
 	(junction
 		(at 294.64 57.15)
@@ -8801,7 +8921,7 @@
 	)
 	(wire
 		(pts
-			(xy 38.1 172.72) (xy 48.26 172.72)
+			(xy 38.1 172.72) (xy 40.64 172.72)
 		)
 		(stroke
 			(width 0)
@@ -9998,6 +10118,16 @@
 			(type default)
 		)
 		(uuid "b3ed9530-8f09-49b9-8ca2-e7dcab174d2b")
+	)
+	(wire
+		(pts
+			(xy 40.64 172.72) (xy 48.26 172.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b46b5b35-4f4e-4eef-babf-cabd721460fd")
 	)
 	(wire
 		(pts
@@ -13912,6 +14042,72 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 40.64 172.72 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "4a1256ba-6e4f-4bf9-89bb-b6130553ed58")
+		(property "Reference" "TP3"
+			(at 41.656 168.148 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 41.656 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_2.5x2.5mm"
+			(at 45.72 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 45.72 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 40.64 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "061d18ad-9e7f-496c-af89-6eb2740494d6")
+		)
+		(instances
+			(project "Urban MC"
+				(path "/9c188f5e-4c43-43bc-b719-7c7a34d1ae77"
+					(reference "TP3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+5V")
 		(at 163.83 58.42 0)
 		(unit 1)
@@ -17427,6 +17623,70 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 125.73 63.5 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b56d63e3-8fcc-4714-ad5f-6849cc72ab6b")
+		(property "Reference" "TP2"
+			(at 116.332 60.96 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 116.332 63.246 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_2.5x2.5mm"
+			(at 125.73 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 125.73 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 125.73 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "19d27611-d4cd-4929-8bf3-42ef450dada9")
+		)
+		(instances
+			(project "Urban MC"
+				(path "/9c188f5e-4c43-43bc-b719-7c7a34d1ae77"
+					(reference "TP2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 294.64 86.36 0)
 		(mirror y)
@@ -18339,6 +18599,73 @@
 			(project "Urban MC"
 				(path "/9c188f5e-4c43-43bc-b719-7c7a34d1ae77"
 					(reference "#PWR031")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 57.15 48.26 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c412eeb8-2a0d-4485-9070-a7f39fdcb331")
+		(property "Reference" "TP1"
+			(at 62.23 46.9899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 62.23 49.5299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_2.5x2.5mm"
+			(at 57.15 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 57.15 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 57.15 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b6647d39-cb59-4d3d-8138-c5f0dce8419c")
+		)
+		(instances
+			(project "Urban MC"
+				(path "/9c188f5e-4c43-43bc-b719-7c7a34d1ae77"
+					(reference "TP1")
 					(unit 1)
 				)
 			)
