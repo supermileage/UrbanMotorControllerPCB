@@ -8322,7 +8322,7 @@
 		(descr "Through hole angled pin header, 1x02, 2.54mm pitch, 6mm pin length, single row")
 		(tags "Through hole angled pin header THT 1x02 2.54mm single row")
 		(property "Reference" "SW1"
-			(at -2.397361 -0.378577 180)
+			(at -2.524361 -0.378577 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "faba4364-380e-48f5-83d7-bcb9e9ef37ca")
@@ -12033,7 +12033,7 @@
 		(at 123.216425 37.725788 180)
 		(tags "436500200 ")
 		(property "Reference" "J1"
-			(at -5.815575 -3.041212 0)
+			(at -5.815575 -1.771212 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "53c63b50-941d-4d11-93f5-7e73877e9f21")
@@ -20062,7 +20062,7 @@
 		(at 135.709506 37.739236 180)
 		(tags "436500200 ")
 		(property "Reference" "J2"
-			(at -5.768494 -3.027764 0)
+			(at -5.768494 -1.757764 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "89867520-0a00-4a89-97e5-750816b16169")
