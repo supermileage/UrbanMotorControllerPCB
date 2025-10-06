@@ -1,4 +1,4 @@
-26679822654236336
+26681627133069761
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -106392,6 +106392,13 @@ IFX-PG-WHTFN-9-1-V
 0
 12
 3
+urban_mc_custom_footprints
+NVBLS1D1N08H
+H−PSOF8L 11.68x9.80 CASE 100CU ISSUE C
+MOSFET (N-Channel)
+0
+12
+12
 urban_mc_custom_footprints
 PG-TO247-3-901_INF
 
