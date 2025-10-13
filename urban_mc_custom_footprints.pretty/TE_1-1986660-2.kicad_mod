@@ -229,6 +229,7 @@
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(solder_mask_margin 0.102)
+		(zone_connect 2)
 		(uuid "02932a04-a512-4a2b-8782-935edc360554")
 	)
 	(pad "1_2" thru_hole circle
@@ -238,6 +239,7 @@
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(solder_mask_margin 0.102)
+		(zone_connect 2)
 		(uuid "801fe50c-f14b-4644-9e6d-f0b8a94a9640")
 	)
 	(pad "2_1" thru_hole circle
@@ -247,6 +249,7 @@
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(solder_mask_margin 0.102)
+		(zone_connect 2)
 		(uuid "469108e3-9cce-4b5b-bde2-a50cf28a9f9b")
 	)
 	(pad "2_2" thru_hole circle
@@ -256,6 +259,7 @@
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(solder_mask_margin 0.102)
+		(zone_connect 2)
 		(uuid "3bd3ff4d-fe01-41e5-bd68-a5319e9381ae")
 	)
 	(embedded_fonts no)
