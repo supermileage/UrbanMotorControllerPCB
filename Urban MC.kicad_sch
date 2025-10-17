@@ -1469,6 +1469,167 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Device:C_Polarized"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at 0.635 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "C_Polarized"
+				(at 0.635 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" ""
+				(at 0.9652 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Polarized capacitor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "cap capacitor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "CP_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "C_Polarized_0_1"
+				(rectangle
+					(start -2.286 0.508)
+					(end 2.286 1.016)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.778 2.286) (xy -0.762 2.286)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 2.794) (xy -1.27 1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 2.286 -0.508)
+					(end -2.286 -1.016)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+			)
+			(symbol "C_Polarized_1_1"
+				(pin passive line
+					(at 0 3.81 270)
+					(length 2.794)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -3.81 90)
+					(length 2.794)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Device:C_Small"
 			(pin_numbers
 				(hide yes)
@@ -6874,12 +7035,6 @@
 		(uuid "52193f02-f366-43f5-bc6e-40fe88e567f9")
 	)
 	(junction
-		(at 58.42 187.96)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "52393afd-c617-4c3f-b938-29517a35c7b3")
-	)
-	(junction
 		(at 355.6 199.39)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7210,12 +7365,6 @@
 		(uuid "e56d88bc-60ed-4013-b0b5-2927b9df4b08")
 	)
 	(junction
-		(at 58.42 172.72)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e5b71afd-6c25-45ab-a4a3-8eeb78144cb5")
-	)
-	(junction
 		(at 215.9 105.41)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7516,16 +7665,6 @@
 			(type default)
 		)
 		(uuid "112fb3b8-135f-4d7f-94ad-0136c959b2d6")
-	)
-	(wire
-		(pts
-			(xy 58.42 172.72) (xy 59.69 172.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "114354ca-76b5-4e8b-89c6-b3814b38d5c0")
 	)
 	(wire
 		(pts
@@ -8389,7 +8528,7 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 172.72) (xy 58.42 172.72)
+			(xy 57.15 172.72) (xy 59.69 172.72)
 		)
 		(stroke
 			(width 0)
@@ -8476,16 +8615,6 @@
 			(type default)
 		)
 		(uuid "54034bd5-a8e3-48ba-9a0d-7071be8d841d")
-	)
-	(wire
-		(pts
-			(xy 58.42 172.72) (xy 58.42 176.53)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5439b292-cbf4-4c98-a910-e4f25e7a6874")
 	)
 	(wire
 		(pts
@@ -8989,7 +9118,7 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 187.96) (xy 58.42 187.96)
+			(xy 57.15 187.96) (xy 67.31 187.96)
 		)
 		(stroke
 			(width 0)
@@ -9639,16 +9768,6 @@
 	)
 	(wire
 		(pts
-			(xy 58.42 187.96) (xy 67.31 187.96)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "af81bb46-1a8e-453d-9f4c-06e18aa41b27")
-	)
-	(wire
-		(pts
 			(xy 86.36 99.06) (xy 86.36 90.17)
 		)
 		(stroke
@@ -9896,16 +10015,6 @@
 			(type default)
 		)
 		(uuid "c0d5d5c4-7a63-4e90-98e1-4734896b2997")
-	)
-	(wire
-		(pts
-			(xy 58.42 184.15) (xy 58.42 187.96)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c1870133-f410-4da6-ac73-5676931929f5")
 	)
 	(wire
 		(pts
@@ -15426,6 +15535,75 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_Polarized")
+		(at 52.07 180.34 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "6306d1c7-bf9f-447d-a891-e6a1b8afb00e")
+		(property "Reference" "C14"
+			(at 54.356 178.054 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1m"
+			(at 54.864 182.626 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "urban_mc_custom_footprints:CAPPRD750W80D1600H2500"
+			(at 53.0352 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.bourns.com/docs/Product-Datasheets/PTVS1-xxxC-H.pdf"
+			(at 52.07 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Polarized capacitor"
+			(at 52.07 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "f5eff45e-8bb7-46e5-8495-8ac260a9b2c8")
+		)
+		(pin "1"
+			(uuid "2a42375e-65d7-407d-be5c-fc15288bba61")
+		)
+		(instances
+			(project ""
+				(path "/9c188f5e-4c43-43bc-b719-7c7a34d1ae77"
+					(reference "C14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+12V")
 		(at 118.11 172.72 270)
 		(unit 1)
@@ -15822,75 +16000,6 @@
 			(project "Urban MC"
 				(path "/9c188f5e-4c43-43bc-b719-7c7a34d1ae77"
 					(reference "#PWR01")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 52.07 180.34 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "6fadad78-8df5-4b42-bb74-72531d1dc612")
-		(property "Reference" "C14"
-			(at 48.006 177.546 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1m"
-			(at 48.26 182.626 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "urban_mc_custom_footprints:CAPPRD750W80D1600H2500"
-			(at 53.0352 184.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/RDE0000C1255.pdf"
-			(at 52.07 180.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 52.07 180.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "4314c290-b4e7-4fa0-b961-a93c24211079")
-		)
-		(pin "2"
-			(uuid "0984cc79-96af-4e49-b7f3-9ff9e6d6d0b5")
-		)
-		(instances
-			(project "Urban MC"
-				(path "/9c188f5e-4c43-43bc-b719-7c7a34d1ae77"
-					(reference "C14")
 					(unit 1)
 				)
 			)
@@ -17836,75 +17945,6 @@
 			(project "Urban MC"
 				(path "/9c188f5e-4c43-43bc-b719-7c7a34d1ae77"
 					(reference "#PWR012")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 58.42 180.34 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "b1c72672-d27b-49e4-91ee-833674b87147")
-		(property "Reference" "C19"
-			(at 58.674 177.546 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1m"
-			(at 59.182 182.626 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "urban_mc_custom_footprints:CAPPRD750W80D1600H2500"
-			(at 59.3852 184.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/RDE0000C1255.pdf"
-			(at 58.42 180.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 58.42 180.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "10d1603a-0b75-4f36-bf4a-85e1a58d506d")
-		)
-		(pin "2"
-			(uuid "57291f60-e350-4562-95d1-4b15233a9162")
-		)
-		(instances
-			(project "Urban MC"
-				(path "/9c188f5e-4c43-43bc-b719-7c7a34d1ae77"
-					(reference "C19")
 					(unit 1)
 				)
 			)

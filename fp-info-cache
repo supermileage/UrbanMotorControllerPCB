@@ -1,4 +1,4 @@
-26681627133113189
+26685148560623949
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -106295,6 +106295,13 @@ Varistor VF
 2
 2
 urban_mc_custom_footprints
+CAPPRD750W80D1600H2500
+
+
+0
+2
+2
+urban_mc_custom_footprints
 CONN3_1986660-3_TEC
 
 1986660-3 
@@ -106406,6 +106413,13 @@ IRF150P220XKMA1
 0
 3
 3
+urban_mc_custom_footprints
+PTVS1058CH
+PTVS1-058C-H-3
+TVS Diode (Bi-directional)
+0
+2
+2
 urban_mc_custom_footprints
 SW_TS04-66-70-BK-160-SMT
 
