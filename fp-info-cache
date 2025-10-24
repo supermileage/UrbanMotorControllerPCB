@@ -1,4 +1,4 @@
-26685148560623949
+26686910016744195
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -106308,6 +106308,13 @@ CONN3_1986660-3_TEC
 0
 6
 6
+urban_mc_custom_footprints
+CONN_5569-04A_MOL
+
+39301040 
+0
+4
+4
 urban_mc_custom_footprints
 CONN_70553-xxxx_03_MOL
 
