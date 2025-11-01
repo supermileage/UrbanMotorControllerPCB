@@ -12824,7 +12824,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC_Automotive.pdf"
 			(at 388.62 71.12 0)
 			(effects
 				(font
@@ -13673,7 +13673,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "SSB44-E3/52T"
+		(property "Datasheet" "https://www.vishay.com/docs/88884/ssb43l.pdf"
 			(at 299.72 119.38 0)
 			(effects
 				(font
@@ -13761,7 +13761,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "SSB44-E3/52T"
+		(property "Datasheet" "https://www.vishay.com/docs/88884/ssb43l.pdf"
 			(at 298.45 57.15 0)
 			(effects
 				(font
@@ -14918,7 +14918,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC_Automotive.pdf"
 			(at 400.05 147.32 0)
 			(effects
 				(font
@@ -16182,7 +16182,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC_Automotive.pdf"
 			(at 398.78 71.12 0)
 			(effects
 				(font
@@ -17611,7 +17611,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC_Automotive.pdf"
 			(at 389.89 147.32 0)
 			(effects
 				(font
@@ -18293,8 +18293,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "927e50a7-0e89-4432-a8ab-bf2e05b93213")
-		(property "Reference" "SW3"
-			(at 256.54 72.39 0)
+		(property "Reference" "SW2"
+			(at 256.54 83.312 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18351,7 +18351,7 @@
 		(instances
 			(project ""
 				(path "/9c188f5e-4c43-43bc-b719-7c7a34d1ae77"
-					(reference "SW3")
+					(reference "SW2")
 					(unit 1)
 				)
 			)
@@ -18591,7 +18591,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC_Automotive.pdf"
 			(at 391.16 215.9 0)
 			(effects
 				(font
@@ -19554,7 +19554,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC_Automotive.pdf"
 			(at 401.32 215.9 0)
 			(effects
 				(font
