@@ -12460,7 +12460,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.vishay.com/docs/88884/ssb43l.pdf"
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/2523/B370%28B%2CC%29E%20-%20B3100%28B%2CC%29E.pdf"
 			(at 299.72 190.5 0)
 			(effects
 				(font
@@ -13673,7 +13673,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.vishay.com/docs/88884/ssb43l.pdf"
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/2523/B370%28B%2CC%29E%20-%20B3100%28B%2CC%29E.pdf"
 			(at 299.72 119.38 0)
 			(effects
 				(font
@@ -13761,7 +13761,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.vishay.com/docs/88884/ssb43l.pdf"
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/2523/B370%28B%2CC%29E%20-%20B3100%28B%2CC%29E.pdf"
 			(at 298.45 57.15 0)
 			(effects
 				(font
@@ -16657,7 +16657,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1773204-3&DocType=Data%20Sheet&DocLang=English&DocFormat=pdf&PartCntxt=4-2176338-3"
 			(at 125.73 179.07 0)
 			(effects
 				(font
@@ -21405,7 +21405,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1773204-3&DocType=Data%20Sheet&DocLang=English&DocFormat=pdf&PartCntxt=4-2176338-3"
 			(at 107.95 81.28 0)
 			(effects
 				(font
