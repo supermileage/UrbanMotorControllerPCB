@@ -511,7 +511,7 @@
       "plot": "V1.2_GERBER/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "Urban MC.step",
       "svg": "",
       "vrml": ""
     },
