@@ -12234,7 +12234,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.infineon.com/assets/row/public/documents/24/49/infineon-irs2186-datasheet-en.pdf"
+		(property "Datasheet" "https://www.infineon.com/dgdl/irs2186pbf.pdf?fileId=5546d462533600a40153567716c427ed"
 			(at 295.91 134.62 0)
 			(effects
 				(font
@@ -19756,7 +19756,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.infineon.com/assets/row/public/documents/24/49/infineon-irs2186-datasheet-en.pdf"
+		(property "Datasheet" "https://www.infineon.com/dgdl/irs2186pbf.pdf?fileId=5546d462533600a40153567716c427ed"
 			(at 294.64 72.39 0)
 			(effects
 				(font
@@ -21318,7 +21318,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.infineon.com/assets/row/public/documents/24/49/infineon-irs2186-datasheet-en.pdf"
+		(property "Datasheet" "https://www.infineon.com/dgdl/irs2186pbf.pdf?fileId=5546d462533600a40153567716c427ed"
 			(at 295.91 205.74 0)
 			(effects
 				(font
